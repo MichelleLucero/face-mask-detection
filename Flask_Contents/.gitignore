@@ -1,0 +1,8 @@
+.DS_Store
+
+/backend/pickle_files/
+/backend/data/
+
+/flask-app/.git/
+/flask-app/.gitignore
+/flask-app/static/uploads
